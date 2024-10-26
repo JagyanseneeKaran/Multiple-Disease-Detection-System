@@ -59,10 +59,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ---
 
-# 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 # 🙏 Acknowledgments
 Special thanks to the open-source community and the contributors whose work in machine learning, image processing, and web development made this project possible.
