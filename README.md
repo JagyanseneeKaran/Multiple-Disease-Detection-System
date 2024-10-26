@@ -10,8 +10,8 @@ The need for early detection in healthcare is critical. By leveraging **data pro
 
 ## 🔍 Key Features
 - **User-Friendly Interface**: Interactive, intuitive interface for effortless image upload and visualization, powered by Streamlit.
-- **Sophisticated Pre-Processing**: Employs Otsu’s thresholding and Gaussian filtering to enhance image quality and accuracy.
-- **High-Performance Model**: Uses Gradient Boosting for robust, multi-class disease classification.
+- **Sophisticated Pre-Processing**: Employs scikit-learning and pandas to enhance data quality and accuracy.
+- **High-Performance Model**: Uses logistic regression for robust, multi-class disease classification.
 - **Instant Predictions**: Quick and accurate results, helping users and professionals make informed decisions.
 
 ---
