@@ -65,11 +65,6 @@ We welcome and appreciate contributions! Feel free to fork this repository, work
 
 ---
 
-## 📜 License
-Licensed under the MIT License - see [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgments
 We thank the open-source community, healthcare professionals, and researchers whose efforts in machine learning and healthcare make this project possible.
 
